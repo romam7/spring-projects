@@ -1,0 +1,14 @@
+package com.roman.beans;
+
+public class Mundo {
+
+	private String mensaje;
+
+	public String getMensaje() {
+		return mensaje;
+	}
+
+	public void setMensaje(String mensaje) {
+		this.mensaje = mensaje;
+	}
+}

@@ -1,0 +1,16 @@
+package com.todo.rest.webservices.services;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.todo.rest.webservices.models.Todo;
+
+public class TodoHardcodedService {
+
+	private static List<Todo> todos = new ArrayList<>();
+	private static int idCounter;
+	
+	static {
+		todos.add(new Todo(0, null, null, null, false))
+	}
+}

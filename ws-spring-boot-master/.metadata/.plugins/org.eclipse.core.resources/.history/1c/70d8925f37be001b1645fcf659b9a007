@@ -1,0 +1,5 @@
+package com.todo.rest.webservices.services;
+
+public class TodoHardcodedService {
+
+}

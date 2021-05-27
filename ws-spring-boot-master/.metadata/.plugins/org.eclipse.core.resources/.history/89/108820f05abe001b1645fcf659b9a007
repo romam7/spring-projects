@@ -1,0 +1,18 @@
+package com.todo.rest.webservices.controller;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.todo.rest.webservices.models.Todo;
+import com.todo.rest.webservices.services.TodoHardcodedService;
+
+@RestController
+public class TodoResourceController {
+	
+	private TodoHardcodedService todoService;
+
+	public List<Todo> getAllTodos(String username) {
+		todoService.findAll();
+	}
+}
