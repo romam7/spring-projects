@@ -1,0 +1,5 @@
+package com.todo.rest.webservices.basicauth;
+
+public class SpringSecurityConfigurationBasicAuth {
+
+}

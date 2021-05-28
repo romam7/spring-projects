@@ -1,0 +1,5 @@
+#logging.level.org.springframework=debug
+
+# to define a stable user and password, due to if we don't do this, the password value changes on every execution
+spring.security.user.name=user
+spring.security.user.password=password

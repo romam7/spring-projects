@@ -1,0 +1,5 @@
+package com.todo.rest.webservices.helloworld.controller;
+
+public class BasicAuthController {
+
+}

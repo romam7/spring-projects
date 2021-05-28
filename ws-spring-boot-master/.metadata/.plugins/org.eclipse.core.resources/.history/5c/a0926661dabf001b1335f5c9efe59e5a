@@ -1,0 +1,5 @@
+package com.todo.rest.webservices.models;
+
+public class AuthenticationBean {
+
+}
