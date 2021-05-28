@@ -2617,3 +2617,30 @@ java.lang.NullPointerException: null
 2021-05-28 15:06:25,731 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-05-28 15:06:25,731 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-05-28 15:06:25,731 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programming Projects\spring-projects\ws-spring-boot-master\react-restful-ws\src\test\resources
+2021-05-28 15:08:33,851 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:08:33,851 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-28 15:08:33,852 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-28 15:08:33,871 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:08:33,873 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:08:33,873 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-28 15:08:33,873 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programming Projects\spring-projects\ws-spring-boot-master\react-restful-ws\src\test\resources
+2021-05-28 15:09:26,138 [Worker-48: Launching Executing clean in E__Programming Projects_spring-projects_ws-spring-boot-master_react-restful-ws] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Programming Projects\spring-projects\ws-spring-boot-master\react-restful-ws
+2021-05-28 15:09:26,138 [Worker-48: Launching Executing clean in E__Programming Projects_spring-projects_ws-spring-boot-master_react-restful-ws] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\RomPrograms\apache-maven-3.6.3\conf\settings.xml -s E:\Users\RBADILLOG\.m2\settings.xml clean -Dstyle.color=always
+2021-05-28 15:09:28,722 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:09:28,722 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-28 15:09:28,724 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-28 15:09:28,735 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:09:28,737 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:09:28,737 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-28 15:09:28,737 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programming Projects\spring-projects\ws-spring-boot-master\react-restful-ws\src\test\resources
+2021-05-28 15:09:34,763 [Worker-43: Launching Executing install in E__Programming Projects_spring-projects_ws-spring-boot-master_react-restful-ws] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Programming Projects\spring-projects\ws-spring-boot-master\react-restful-ws
+2021-05-28 15:09:34,764 [Worker-43: Launching Executing install in E__Programming Projects_spring-projects_ws-spring-boot-master_react-restful-ws] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\RomPrograms\apache-maven-3.6.3\conf\settings.xml -s E:\Users\RBADILLOG\.m2\settings.xml install -Dstyle.color=always
+2021-05-28 15:10:59,455 [Worker-51: Launching Executing clean in E__Programming Projects_spring-projects_ws-spring-boot-master_react-restful-ws] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Programming Projects\spring-projects\ws-spring-boot-master\react-restful-ws
+2021-05-28 15:10:59,456 [Worker-51: Launching Executing clean in E__Programming Projects_spring-projects_ws-spring-boot-master_react-restful-ws] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\RomPrograms\apache-maven-3.6.3\conf\settings.xml -s E:\Users\RBADILLOG\.m2\settings.xml clean -Dstyle.color=always
+2021-05-28 15:11:02,121 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:11:02,121 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-28 15:11:02,122 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-28 15:11:02,128 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:11:02,129 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:11:02,129 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-28 15:11:02,129 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programming Projects\spring-projects\ws-spring-boot-master\react-restful-ws\src\test\resources
