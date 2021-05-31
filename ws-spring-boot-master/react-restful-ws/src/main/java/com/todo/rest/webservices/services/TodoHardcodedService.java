@@ -12,7 +12,7 @@ import com.todo.rest.webservices.models.Todo;
 public class TodoHardcodedService {
 
 	private static List<Todo> todos = new ArrayList<>();
-	private static int idCounter = 0;
+	private static Long idCounter = 0L;
 
 	static {
 		todos.add(new Todo(++idCounter, "Roman", "Learn to dance", new Date(), false));

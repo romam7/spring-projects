@@ -1,0 +1,8 @@
+package com.todo.rest.webservices.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.todo.rest.webservices.models.Todo;
+
+public interface TodoJpaRepository extends JpaRepository<Todo, Long> {
+}
